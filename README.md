@@ -78,7 +78,7 @@
 ### 📫 Get In Touch
 | Platform | Link |
 |----------|------|
-| **Email** | [rajshrees093@example.com](mailto:rajshrees093@example.com) |
+| **Email** | [rajshrees093@gmail.com](mailto:rajshrees093@gmail.com) |
 
 
 ---
