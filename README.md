@@ -78,69 +78,45 @@
 ### 📫 Get In Touch
 | Platform | Link |
 |----------|------|
-| **Email** | [YOUR.EMAIL@example.com](mailto:YOUR.EMAIL@example.com) |
-| **Portfolio** | [YOUR_PORTFOLIO_LINK](https://yourportfolio.com) |
-| **Discord** | YOUR_DISCORD_TAG |
+| **Email** | [rajshrees093@example.com](mailto:rajshrees093@example.com) |
+
 
 ---
 
 ### 🌐 Connect With Me
 <p align="left">
-  <a href="https://www.linkedin.com/in/[YOUR_LINKEDIN_USERNAME]/" target="blank">
+  <a href="https://www.linkedin.com/in/rajshreesinha/" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" width="35" />
   </a>
-  <a href="https://x.com/[YOUR_TWITTER_HANDLE]" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="35" width="35" />
-  </a>
-  <a href="https://instagram.com/[YOUR_INSTAGRAM]" target="blank">
+  <a href="https://instagram.com/sinha.rajshree" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="35" width="35" />
   </a>
-  <a href="https://github.com/[YOUR_GITHUB_USERNAME]" target="blank">
+  <a href="https://github.com/rajshrees093-ai" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="35" width="35" />
   </a>
 </p>
 
 ---
 
-### 🎯 Featured Projects
-
-| Project | Description | Tech Stack |
-|---------|-------------|-----------|
-| **[PROJECT 1 NAME]** | [Brief description of what it does] | ![React](https://img.shields.io/badge/React-blue?style=flat-square) ![Node.js](https://img.shields.io/badge/Node.js-green?style=flat-square) |
-| **[PROJECT 2 NAME]** | [Brief description of what it does] | ![Python](https://img.shields.io/badge/Python-blue?style=flat-square) ![MongoDB](https://img.shields.io/badge/MongoDB-green?style=flat-square) |
-| **[PROJECT 3 NAME]** | [Brief description of what it does] | ![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-green?style=flat-square) |
-
-➡️ [View all projects →](https://github.com/[YOUR_GITHUB_USERNAME]?tab=repositories)
-
----
 
 ### 📊 GitHub Analytics
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70f0ff&icon_color=00d4ff)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajshrees093-ai&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70f0ff&icon_color=00d4ff)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_GITHUB_USERNAME]&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70f0ff)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajshrees093-ai&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70f0ff)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=[YOUR_GITHUB_USERNAME]&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rajshrees093-ai&theme=tokyonight)
 
 </div>
 
 ---
 
-### 🏆 Achievements & Highlights
-- 🎖️ **[ACHIEVEMENT 1]** - [Description/Year]
-- 🎖️ **[ACHIEVEMENT 2]** - [Description/Year]
-- 🎖️ **[ACHIEVEMENT 3]** - [Description/Year]
-- 📜 **Certifications**: [LIST YOUR CERTIFICATIONS]
-
----
-
 ### ⚡ Fun Facts About Me
-- 🎮 I love **[HOBBY 1]** and **[HOBBY 2]** in my free time
-- 🎓 Fun fact: **[ONE INTERESTING THING ABOUT YOU]**
-- 🎵 Currently vibing to: **[MUSIC GENRE/ARTIST]**
-- ☕ Coffee enthusiast starting every coding session with a ☕
+- 🎮 I love **I enjoy building real-world projects to learn new technologies**  in my free time
+- 🎓 Fun fact: **I like solving bugs and understanding how things work internally**
+- ☕ Late-night coding sessions are my most productive
 
 ---
 
@@ -155,5 +131,5 @@
 </div>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=[YOUR_GITHUB_USERNAME]&theme=react-dark" alt="activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajshrees093-ai&theme=react-dark" alt="activity graph" />
 </p>
