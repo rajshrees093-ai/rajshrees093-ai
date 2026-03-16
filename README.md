@@ -15,7 +15,7 @@
 - 🏫 Studying **B.TECH** at **ABES ENGINEERING COLLEGE**, GHAZIABAD, INDIA
 - 🎯 Specializing in **Full-Stack Web Development with JavaScript, API Design & Integration, Modern Frameworks, and Scalable Project Architecture** & **Full-Stack Development & API Architecture and Integration****
 - 💼 Currently **Interning at Labmentix/Scalable API-Driven Web Applications / Open to Opportunities]**
-- 🚀 Passionate about **Passionate about Full-Stack Development, clean code, and staying updated with the latest tech trends**
+- 🚀**Passionate about Full-Stack Development, clean code, and staying updated with the latest tech trends**
 - 🌍 Based in **Ghaziabad, India**
 
 ---
