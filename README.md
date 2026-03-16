@@ -114,7 +114,7 @@
 ---
 
 ### ⚡ Fun Facts About Me
-- 🎮 I love **I enjoy building real-world projects to learn new technologies**  in my free time
+- 🎮  **I enjoy building real-world projects to learn new technologies**  in my free time
 - 🎓 Fun fact: **I like solving bugs and understanding how things work internally**
 - ☕ Late-night coding sessions are my most productive
 
