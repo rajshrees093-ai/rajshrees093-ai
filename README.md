@@ -102,12 +102,14 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajshrees093-ai&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70f0ff&icon_color=00d4ff)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajshrees093-ai&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70f0ff)
+<img src="https://github-readme-stats.vercel.app/api?username=rajshrees093-ai&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70f0ff&icon_color=00d4ff" height="180"/>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rajshrees093-ai&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajshrees093-ai&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70f0ff" height="180"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=rajshrees093-ai&theme=tokyonight&hide_border=true&background=1a1b27&ring=70f0ff&fire=00d4ff&currStreakLabel=70f0ff" />
 
 </div>
 
