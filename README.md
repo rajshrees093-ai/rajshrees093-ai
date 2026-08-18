@@ -4,9 +4,9 @@
 
 ### 2nd Year Student | CSE • Passionate about creating scalable web applications and constantly learning emerging technologies
 
-[![Profile Views](https://komarev.com/ghpvc/?username=rajshrees093-ai&label=Profile%20views&color=0e75b6&style=flat-square&logo=github)](https://github.com/rajshrees093-ai)
-[![GitHub followers](https://img.shields.io/github/followers/rajshrees093-ai?style=flat-square&logo=github)](https://github.com/rajshrees093-ai)
+[![Profile Views](https://komarev.com/ghpvc/?username=rajshrees093-ai&label=Profile%20Views&color=0e75b6&style=flat-square&logo=github)](https://github.com/rajshrees093-ai)
 
+[![GitHub Followers](https://img.shields.io/github/followers/rajshrees093-ai?style=flat-square&logo=github)](https://github.com/rajshrees093-ai)
 </div>
 
 ---
