@@ -148,12 +148,11 @@
 </div>
 
 ---
-
-## 📈 Contribution Graph
+## 📈 GitHub Contributions
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rajshrees093-ai&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph"/>
+<img src="https://github-contributor-stats.vercel.app/api?username=rajshrees093-ai&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="GitHub Contributor Stats"/>
 
 </div>
 
