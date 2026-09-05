@@ -153,7 +153,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rajshrees093-ai&bg_color=1a1b27&color=70f0ff&line=00d4ff&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rajshrees093-ai&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph"/>
 
 </div>
 
