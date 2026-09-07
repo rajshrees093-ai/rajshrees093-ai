@@ -137,17 +137,13 @@
 <div align="center">
 
 <a href="https://github.com/rajshrees093-ai">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=rajshrees093-ai&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
-</a>
-
-<a href="https://github.com/rajshrees093-ai">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajshrees093-ai&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img src="https://streak-stats.demolab.com/?user=rajshrees093-ai&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </a>
 
 <br><br>
 
 <a href="https://github.com/rajshrees093-ai">
-  <img src="https://streak-stats.demolab.com/?user=rajshrees093-ai&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajshrees093-ai&theme=tokyonight" alt="GitHub Profile Summary"/>
 </a>
 
 </div>
