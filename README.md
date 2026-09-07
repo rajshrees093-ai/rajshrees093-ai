@@ -154,13 +154,11 @@
 
 ## 📈 GitHub Contributions
 
-<div align="center">
-
-<a href="https://github.com/rajshrees093-ai">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajshrees093-ai&theme=tokyonight" alt="GitHub Contribution Graph"/>
-</a>
-
-</div>
+<p align="center">
+  <a href="https://github.com/rajshrees093-ai">
+    <img src="https://img.shields.io/badge/View%20My%20GitHub%20Contributions-181717?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub Contributions"/>
+  </a>
+</p>
 ---
 
 ## ⚡ Fun Facts About Me
