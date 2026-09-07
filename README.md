@@ -132,20 +132,26 @@
 </p>
 
 ---
-
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rajshrees093-ai&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="180" alt="GitHub Stats"/>
+<a href="https://github.com/rajshrees093-ai">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rajshrees093-ai&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="Rajshree's GitHub Stats"/>
+</a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajshrees093-ai&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="180" alt="Top Languages"/>
+<a href="https://github.com/rajshrees093-ai">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rajshrees093-ai&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages"/>
+</a>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=rajshrees093-ai&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<a href="https://github.com/rajshrees093-ai">
+<img src="https://streak-stats.demolab.com?user=rajshrees093-ai&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak"/>
+</a>
 
 </div>
+
 
 ---
 ## 📈 GitHub Contributions
