@@ -137,24 +137,24 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rajshrees093-ai&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70f0ff&icon_color=00d4ff" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=rajshrees093-ai&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="180" alt="GitHub Stats"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajshrees093-ai&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70f0ff" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajshrees093-ai&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="180" alt="Top Languages"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=rajshrees093-ai&theme=tokyonight&hide_border=true&background=1a1b27&ring=70f0ff&fire=00d4ff&currStreakLabel=70f0ff" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=rajshrees093-ai&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
 ---
 ## 📈 GitHub Contributions
 
-<div align="center">
-
-<img src="https://github-contributor-stats.vercel.app/api?username=rajshrees093-ai&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="GitHub Contributor Stats"/>
-
-</div>
+<p align="center">
+  <a href="https://github.com/rajshrees093-ai">
+    <img src="https://img.shields.io/badge/View%20My%20GitHub%20Contributions-181717?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub Contributions"/>
+  </a>
+</p>
 
 ---
 
